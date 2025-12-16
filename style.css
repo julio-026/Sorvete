@@ -1,10 +1,12 @@
 html {
     
-    background-color: pink;
-    border: 22px inset rgb(120, 100, 255);
-    max-width: auto;
-    padding: 0px 0px 2px 0;
-     
+    background-image: url("fundo.jpg");
+    background-repeat: no-repeat;
+    background-position: top, center;
+    background-size: 100vw 100vw;
+    
+    padding: 1px 15px 15px 15px;
+    
     
 }
 
@@ -21,10 +23,9 @@ h1 {
     
 }
 
-img{
+img {
     
-    align-content: vertical; 
-    text-align: start;
+    align-content: vertical;
+    
     
 }
-
