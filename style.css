@@ -1,23 +1,23 @@
 html {
     
     background-color: pink;
-    border: 22px inset lightpink;
+    border: 22px inset rgb(120, 100, 255);
     max-width: auto;
-    padding: 0px 0px 20vh 0;
+    padding: 0px 0px 2px 0;
      
     
 }
 
 body {
-    font-size: 5vh;
+    font-size: 45px;
     
 }
 
 h1 {
     
     justify-self: center;
-    border-bottom: 1vh solid mintcream;
-    padding: 0 10vw 0 10vw;
+    border-bottom: 10px solid mintcream;
+    padding: 0 100px 0 100px;
     
 }
 
