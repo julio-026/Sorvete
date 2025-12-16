@@ -1,0 +1,30 @@
+html {
+    
+    background-color: pink;
+    border: 22px inset lightpink;
+    max-width: auto;
+    padding: 0px 0px 20vh 0;
+     
+    
+}
+
+body {
+    font-size: 5vh;
+    
+}
+
+h1 {
+    
+    justify-self: center;
+    border-bottom: 1vh solid mintcream;
+    padding: 0 10vw 0 10vw;
+    
+}
+
+img{
+    
+    align-content: vertical; 
+    text-align: start;
+    
+}
+
